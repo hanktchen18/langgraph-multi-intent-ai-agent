@@ -1,0 +1,14 @@
+# Environment
+.env
+
+# Virtual environment
+.venv/
+
+# IDE / tool metadata
+.qodo/
+.DS_Store
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
