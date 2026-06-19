@@ -2,6 +2,8 @@
 
 Build a multi-intent AI agent using LangGraph that routes user messages to specialized sub-agents based on intent. A classifier node dispatches each message to a chat agent, a RAG knowledge agent, or a Claude Code coding agent — with a human-in-the-loop approval step before any code changes are made.
 
+<img width="524" height="579" alt="image" src="https://github.com/user-attachments/assets/25752958-1fd3-4c51-bb65-e5f859919287" />
+
 ## Steps I Did
 
 - Scaffolded the project with `uv` and configured dependencies including `langchain`, `langgraph`, and `langchain-google-genai`
